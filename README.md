@@ -22,8 +22,11 @@ npm install
 
 ## Link the library to your React Native project
 
+#### Pod Linking
+
+Add in your PodFile
 ```bash
-react-native link
+pod 'ReactNativeAlternateIcons', :path => '../node_modules/react-native-alternate-icons'
 ```
 
 #### Manual Linking
