@@ -8,8 +8,16 @@ React Native Alternate Icons for iOS 10.3+
 
 ## Installation
 
+Add in your package.json
+
 ```bash
-npm install react-native-alternate-icons@latest --save
+"react-native-alternate-icons": "git+https://github.com/inspired-solutions/react-native-alternate-icons.git",
+```
+
+and then
+
+```bash
+npm install
 ```
 
 ## Link the library to your React Native project
